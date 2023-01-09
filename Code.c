@@ -1,15 +1,15 @@
 //*There are 2 Library in Hubli(Central library(c) and Main library(m)) which gives books to readers
-and take them back but some users are late to submits so library planned to put some fine ,for only single book taken
-Central library charges fine for every book returned late
-for first 5 days fine is 50 paise/day ,
-for 6-10 days fine is 1 rupee/day
-for 10-15 days fine is 5 rupee/day
-for above 15 print statement that "your membership is cancelled"
-Main Library charges fine for every book returned late
-for first 5days fine is 1 rupee/day ,
-for 6-10 days fine is 2 rupee/day
-for 10-15 days fine is 10rupee/day
-for above 15 print statement that "You cannot borrow books"*/
+//and take them back but some users are late to submits so library planned to put some fine ,for only single book taken
+//Central library charges fine for every book returned late
+//for first 5 days fine is 50 paise/day ,
+//for 6-10 days fine is 1 rupee/day
+//for 10-15 days fine is 5 rupee/day
+//for above 15 print statement that "your membership is cancelled"
+//Main Library charges fine for every book returned late
+//for first 5days fine is 1 rupee/day ,
+//for 6-10 days fine is 2 rupee/day
+//for 10-15 days fine is 10rupee/day
+//for above 15 print statement that "You cannot borrow books"*//
 
 #include<stdio.h>
 main()
